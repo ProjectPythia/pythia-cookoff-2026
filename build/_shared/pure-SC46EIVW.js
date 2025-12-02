@@ -1,1 +1,1 @@
-import{a}from"/cookbook-template/build/_shared/chunk-FC55AN3K.js";import"/cookbook-template/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/pythia-cookoff-2026/build/_shared/chunk-FC55AN3K.js";import"/pythia-cookoff-2026/build/_shared/chunk-OZE3FFNP.js";export default a();

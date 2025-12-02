@@ -1,4 +1,4 @@
-import{b as e}from"/cookbook-template/build/_shared/chunk-ZHBLEF4E.js";var l=e(()=>`
+import{b as e}from"/pythia-cookoff-2026/build/_shared/chunk-ZHBLEF4E.js";var l=e(()=>`
   /* Font Awesome icon styling - consolidated */
   .label-icon {
     display: inline-block;

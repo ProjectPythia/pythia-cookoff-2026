@@ -1,1 +1,1 @@
-import{a}from"/cookbook-template/build/_shared/chunk-BJB4CASA.js";import"/cookbook-template/build/_shared/chunk-VCINEGR4.js";import"/cookbook-template/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/pythia-cookoff-2026/build/_shared/chunk-BJB4CASA.js";import"/pythia-cookoff-2026/build/_shared/chunk-VCINEGR4.js";import"/pythia-cookoff-2026/build/_shared/chunk-OZE3FFNP.js";export default a();
