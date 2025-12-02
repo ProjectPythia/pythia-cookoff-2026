@@ -32,7 +32,7 @@ _This is a placeholder draft and will change._
 
 *Pythia Cookout (evening social) to follow, details TBD*
 
-## Thursdday June 18
+## Thursday June 18
 - 9 am: Morning check-in (Main Seminar Room)
 - 9:30 am: Hacking (Breakout Rooms)
 - 12:00 pm: Lunch (Cafeteria)
