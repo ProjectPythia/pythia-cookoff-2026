@@ -6,7 +6,7 @@
 ## Join Project Pythia June 15-18, 2026
 In-person in Boulder, CO at the [NCAR Mesa Lab](https://scied.ucar.edu/visit).
 
-**Registration is now closed.**
+**Registration is not open yet.** Check back soon.
 
 ## What is it?
 
