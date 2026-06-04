@@ -30,7 +30,6 @@ _This is a placeholder draft and will change._
 - 3:15 pm: Hacking (Breakout Rooms)
 - 4:30 pm: Afternoon debrief (Main Seminar Room)
 - 5 pm: Adjourn
-- 5:30 pm: Optional self-pay social (TBD)
 
 ## Wednesday June 17
 - 9 am: Morning check-in (Main Seminar Room)
