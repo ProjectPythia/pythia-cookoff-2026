@@ -8,33 +8,51 @@ _This is a placeholder draft and will change._
 
 ## Monday June 15
 - 9 am: Welcome plenary (Main Seminar Room)
-- 10 am: Project pitches (Main Seminar Room)
+- 9:30 am: Project pitches (Main Seminar Room)
+- 10:30 am: Break
+- 11 am: Breakout group assignments (Main Seminar Room)
+- 11:30am: Hacking: Group Brainstorming (Breakout Rooms)
 - 12 pm: Lunch (Cafeteria)
-- 1-4 pm: Hacking (Main Seminar Room and Breakout Rooms)
-- 4 pm: Afternoon debrief (Main Seminar Room)
+- 1 pm: Hacking (Breakout Rooms)
+- 3 pm: Break 
+- 3:15 pm: Hacking (Breakout Rooms)
+- 4:30 pm: Afternoon debrief (Main Seminar Room)
 - 5 pm: Adjourn
 
 ## Tuesday June 16
 - 9 am: Morning check-in (Main Seminar Room)
 - 9:30 am: Hacking (Breakout Rooms)
+- 10:30 Break
+- 10:45 am: Hacking (Breakout Rooms)
 - 12 pm: Lunch (Cafeteria)
 - 1 pm: Hacking (Breakout Rooms)
-- 2:15 pm: Afternoon debrief (Main Seminar Room)
-- 3 pm: Adjourn early for optional activities (hike or excursion to downtown Boulder)
+- 3 pm: Break 
+- 3:15 pm: Hacking (Breakout Rooms)
+- 4:30 pm: Afternoon debrief (Main Seminar Room)
+- 5 pm: Adjourn
+- 5:30 pm: Optional self-pay social (TBD)
 
 ## Wednesday June 17
 - 9 am: Morning check-in (Main Seminar Room)
-- 10 am: Hacking (Breakout Rooms)
-- 12:30 pm: Lunch (Cafeteria)
-- 1:30 pm: Hacking (Breakout Rooms)
-- 4 pm: Afternoon debrief (Main Seminar Room)
+- 9:30 am: Hacking (Breakout Rooms)
+- 10:30 Break
+- 10:45 am: Hacking (Breakout Rooms)
+- 12 pm: Lunch (Cafeteria)
+- 1 pm: Hacking (Breakout Rooms)
+- 3 pm: Break 
+- 3:15 pm: Hacking (Breakout Rooms)
+- 4:30 pm: Afternoon debrief (Main Seminar Room)
 - 5 pm: Adjourn
-
-*Pythia Cookout (evening social) to follow, details TBD*
+- 5:30 pm: Optional self-pay social (TBD)
 
 ## Thursday June 18
 - 9 am: Morning check-in (Main Seminar Room)
 - 9:30 am: Hacking (Breakout Rooms)
-- 12:00 pm: Lunch (Cafeteria)
-- 1:00 Wrap-up plenary and presentations (Main Seminar Room)
-- 2:30 Adjourn
+- 10:30 Break
+- 10:45 am: Hacking (Breakout Rooms)
+- 12 pm: Lunch (Cafeteria)
+- 1 pm: Hacking (Breakout Rooms)
+- 3 pm: Break 
+- 3:15 pm: Hacking (Breakout Rooms)
+- 4:00 pm: Afternoon debrief (Main Seminar Room)
+- 5 pm: Adjourn
