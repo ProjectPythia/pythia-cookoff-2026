@@ -1,4 +1,4 @@
-# Draft Hackathon Schedule 
+# Hackathon Schedule 
 
 _This is a placeholder draft and will change._
 
@@ -16,8 +16,8 @@ _This is a placeholder draft and will change._
 - 1 pm: Hacking (Breakout Rooms)
 - 3 pm: Break 
 - 3:15 pm: Hacking (Breakout Rooms)
-- 4:30 pm: Afternoon debrief (Main Seminar Room)
-- 5 pm: Adjourn
+- 4:15 pm: Afternoon debrief (Main Seminar Room)
+- 4:45 pm: Adjourn
 
 ## Tuesday June 16
 - 9 am: Morning check-in (Main Seminar Room)
@@ -28,8 +28,8 @@ _This is a placeholder draft and will change._
 - 1 pm: Hacking (Breakout Rooms)
 - 3 pm: Break 
 - 3:15 pm: Hacking (Breakout Rooms)
-- 4:30 pm: Afternoon debrief (Main Seminar Room)
-- 5 pm: Adjourn
+- 4:15 pm: Afternoon debrief (Main Seminar Room)
+- 4:45 pm: Adjourn
 
 ## Wednesday June 17
 - 9 am: Morning check-in (Main Seminar Room)
@@ -40,8 +40,8 @@ _This is a placeholder draft and will change._
 - 1 pm: Hacking (Breakout Rooms)
 - 3 pm: Break 
 - 3:15 pm: Hacking (Breakout Rooms)
-- 4:30 pm: Afternoon debrief (Main Seminar Room)
-- 5 pm: Adjourn
+- 4:15 pm: Afternoon debrief (Main Seminar Room)
+- 4:45 pm: Adjourn
 - 5:30 pm: Optional self-pay social (TBD)
 
 ## Thursday June 18
@@ -54,4 +54,4 @@ _This is a placeholder draft and will change._
 - 3 pm: Break 
 - 3:15 pm: Hacking (Breakout Rooms)
 - 4:00 pm: Afternoon debrief (Main Seminar Room)
-- 5 pm: Adjourn
+- 4:45 pm: Adjourn
