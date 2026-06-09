@@ -53,5 +53,5 @@ _This is a placeholder draft and will change._
 - 1 pm: Hacking (Breakout Rooms)
 - 3 pm: Break 
 - 3:15 pm: Hacking (Breakout Rooms)
-- 4:00 pm: Afternoon debrief (Main Seminar Room)
+- 3:45 pm: Afternoon debrief (Main Seminar Room)
 - 4:45 pm: Adjourn
